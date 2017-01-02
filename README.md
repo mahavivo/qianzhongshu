@@ -1,4 +1,3 @@
-# qianzhongshu
 钱锺书集 电子版
 
 
