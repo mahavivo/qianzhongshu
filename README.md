@@ -2,15 +2,16 @@
 钱锺书集 电子版
 
 
+
 vivo说明
 
 《人·兽·鬼》、《围城》来自网络搜索得到的现成文本，略加排版。
 
-《宋诗选注》由豆瓣网友Ariosto（http://www.douban.com/people/ricoeur/）OCR、制作，V根据三联版校对了全部脚注。
+《宋诗选注》由豆瓣网友Ariosto（http://www.douban.com/people/ricoeur/ ）OCR、制作，V根据三联版校对了全部脚注。
 
-《談藝錄》文件提取底本为mbcd贴在国学数典的PDF（http://bbs.gxsd.com.cn/viewthread.php?tid=7500），以Solid Converter PDF导出，重新予以排版，编辑过程中偶然发现的一些文字讹误直接改正，尚未全面校核。此PDF文字貌似来自小澂所制作中华书局版《谈艺录》，虽然按照三联版编排，但文本并未全符，比如依旧有参观《管锥编》XXX页字样。
+《談藝錄》文件提取底本为mbcd贴在国学数典的PDF（http://bbs.gxsd.com.cn/viewthread.php?tid=7500 ），以Solid Converter PDF导出，重新予以排版，编辑过程中偶然发现的一些文字讹误直接改正，尚未全面校核。此PDF文字貌似来自小澂所制作中华书局版《谈艺录》，虽然按照三联版编排，但文本并未全符，比如依旧有参观《管锥编》XXX页字样。
 
-《管錐編》由网友观者（http://blog.sina.com.cn/u/1502238245）应vivo的邀请制作而成，谢谢他付出的艰苦努力。
+《管錐編》由网友观者（http://blog.sina.com.cn/u/1502238245 ）应vivo的邀请制作而成，谢谢他付出的艰苦努力。
 
 《槐聚詩存》提取自国学数典网友馬文偉制作的PDF文件，V重新予以排版。
 
